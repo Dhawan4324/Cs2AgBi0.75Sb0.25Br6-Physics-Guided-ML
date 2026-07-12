@@ -27,22 +27,22 @@ The notebook includes:
 
 The machine-learning dataset includes the following device parameters:
 
-- Absorber bulk defect density, \(N_t\)
-- Absorber electron affinity, \(\chi\)
-- Absorber acceptor density, \(N_A\)
+- Absorber bulk defect density, *N*<sub>t</sub>
+- Absorber electron affinity, χ
+- Absorber acceptor density, *N*<sub>A</sub>
 - Absorber thickness
 - Electron transport layer/absorber interface defect density
 - Hole transport layer/absorber interface defect density
-- Operating temperature
-- Series resistance, \(R_s\)
-- Shunt resistance, \(R_{sh}\)
+- Operating temperature, *T*
+- Series resistance, *R*<sub>s</sub>
+- Shunt resistance, *R*<sub>sh</sub>
 
 ## Target Variables
 
 The predicted photovoltaic parameters are:
 
-- Open-circuit voltage, \(V_{OC}\)
-- Short-circuit current density, \(J_{SC}\)
+- Open-circuit voltage, *V*<sub>OC</sub>
+- Short-circuit current density, *J*<sub>SC</sub>
 - Fill factor, FF
 - Power conversion efficiency, PCE
 
