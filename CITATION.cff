@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this repository when using the dataset, notebook, or results."
+
+title: "High-Dimensional Physics-Guided Machine Learning for Interpretable Optimization of Lead-Free Cs2AgBi0.75Sb0.25Br6 Double-Perovskite Solar Cells"
+
+type: software
+
+authors:
+  - family-names: "Singh"
+    given-names: "Dhawan"
+    affiliation: "UCRD, Chandigarh University, India"
+
+repository-code: "https://github.com/Dhawan4324/Cs2AgBi0.75Sb0.25Br6-Physics-Guided-ML"
+
+license: MIT
+version: 1.0.0
+date-released: 2026-07-12
+
+keywords:
+  - double-perovskite solar cells
+  - physics-guided machine learning
+  - SCAPS-1D
+  - interpretable machine learning
+  - photovoltaic optimization
+  - Cs2AgBi0.75Sb0.25Br6
